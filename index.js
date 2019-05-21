@@ -68,7 +68,7 @@ class ServerlessSNSTopicTagPlugin {
 
         this.snsService.tagResource(params, (err, apiData) => {
           if(err) return reject(err);
-          resolve(`Tagged SNS ${item.LogicalResourceId}`);          
+          resolve(`Tagged SNS Topic ${item.LogicalResourceId}`);          
         });
       });
     });
