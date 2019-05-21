@@ -1,0 +1,22 @@
+{
+  "name": "serverless-tag-sns-topic",
+  "version": "0.0.1",
+  "description": "Serverless plugin to tag SNS Topic",
+  "main": "index.js",
+  "keywords": [
+    "serverless",
+    "sns",
+    "plugin",
+    "tag",
+    "aws"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inokappa/serverless-tag-sns-topic"
+  },
+  "author": "Yohei Kawahara",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
