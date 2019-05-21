@@ -1,6 +1,6 @@
 # serverless-tag-sns-topic
 
-Serverless plugin to tag SNS Topic
+Serverless plugin to tag SNS Topic (referred to https://github.com/gfragoso/serverless-tag-sqs)
 
 ## Installation
 
