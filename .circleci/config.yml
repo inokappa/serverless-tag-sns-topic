@@ -3,9 +3,7 @@ jobs:
   build:
     docker:
       - image: circleci/node:jessie
-
     working_directory: ~/work
-
     steps:
       - checkout
       - restore_cache:
