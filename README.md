@@ -4,7 +4,7 @@ Serverless plugin to tag SNS Topic (referred to https://github.com/gfragoso/serv
 
 ## Installation
 
-Install the plugin via <a href="https://docs.npmjs.com/cli/install">NPM</a>
+Install the plugin via <a href="https://github.com/inokappa/serverless-tag-sns-topic">Github</a>.
 
 ```
 npm install --save-dev github:inokappa/serverless-tag-sns-topic
