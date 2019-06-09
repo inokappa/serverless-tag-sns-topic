@@ -18,5 +18,12 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.5"
+  },
+  "scripts": {
+    "lint": "eslint *.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0"
   }
 }

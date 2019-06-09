@@ -1,13 +1,13 @@
 # serverless-tag-sns-topic
 
-Serverless plugin to tag SNS Topic (referred to https://github.com/gfragoso/serverless-tag-sqs)
+Serverless plugin to tag SNS Topic (referred to https://github.com/gfragoso/serverless-tag-sqs :tada:)
 
 ## Installation
 
 Install the plugin via <a href="https://docs.npmjs.com/cli/install">NPM</a>
 
 ```
-npm install --save-dev serverless-tag-sns-topic
+npm install --save-dev github:inokappa/serverless-tag-sns-topic
 ```
 
 ## Usage
